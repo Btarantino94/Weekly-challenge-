@@ -30,7 +30,7 @@
 
                     // array_push($faces, $suit);
 
-                    $item = $face . "  " . "of" ."  " .  $suit . "=>  " . $value; 
+                    $item = $face . " of "  .  $suit . "=>  " . $value; 
                     array_push($deck, $item);
 
                 }
